@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
  
 author 'Taikaukk0#3313'
-description 'Very customizable shop script.    ©Copyright© Taikaukk0#3313, 2022'
+description 'Very customizable shop script.'
 
 client_scripts {
     'config.lua',
@@ -17,6 +17,5 @@ server_scripts {
 }
 
 dependencies {
-    'es_extended',
-    'mythic_progbar'
+    'es_extended'
 }
